@@ -1,3 +1,5 @@
-# My original Profile: https://github.com/Sk-singla/
+# Hey this is Samarth.
 
-## My website: [Web-Link](https://samarth-gupta.netlify.app/)
+### [My original Profile](https://github.com/Sk-singla/)
+
+### [My website](https://samarth-gupta.netlify.app/)
